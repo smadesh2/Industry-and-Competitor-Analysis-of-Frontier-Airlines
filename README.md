@@ -1,7 +1,8 @@
 # Industry-and-Competitor-Analysis-of-Frontier-Airlines
 
-## Objective
-Conducting a competitive analysis of Frontier Airlines based on different metrics for measuring on-time performance on Tableau. 
+• Objective: Conduct a competitive analysis of Frontier Airlines on Tableau based on different metrics used for measuring on-time performance.
 
-## Results
-Based on different on-time performance indicators, Frontier and United Airlines are compared with regard to Denver, the hub of Frontier Airlines. 
+• Description: This project was executed as a part of IDS 566: Business Data Visualization. An analysis of the American aviation industry as a whole was carried out based on the on-time performances of the flights for the year 2021. Visualizations were made to find expansion opportunities for Frontier Airlines. To increase Frontier's revenue, an analysis was conducted of its top 10 routes with its competitors.
+
+• Results:
+Based on different on-time performance indicators, Frontier's competitor was identified to be United Airlines when compared with regards to Denver, which is the the hub of Frontier Airlines. An analysis suggesting the steps that Frontier Airlines could take to imporve it's presence and performance in Denver was delivered through Tableau.
